@@ -1,7 +1,7 @@
 
 
 <img src="https://github.com/NC7-CarroThunder/.github/tree/main/profile/img/CarroThunder-logo.png">
-![CarroThunder Logo](./.github/profile/img/CarroThunder-logo.png)
+
 
 ## 지금 바로 접속해보세요
 
