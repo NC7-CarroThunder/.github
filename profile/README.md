@@ -54,7 +54,9 @@
 <details>
 <summary><h3>AI 번역 채팅 기능<h3></summary>
 <h4>번역할 언어를 설정하고 상대방과 채팅해보세요!</h4>
-<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/채팅.gif">
+<a href="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/채팅.gif">
+    <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/채팅.gif" alt="AI 번역 채팅 이미지">
+  </a>
 
 <h4>채팅방을 나갈 시 전의 채팅내역은 보이지 않아요!</h4>
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/채팅방나가기.gif">
