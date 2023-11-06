@@ -11,6 +11,8 @@
 
 ### 회원가입 / 소셜 로그인
 - 카카오 소셜로그인을 통해 서비스를 이용할 수 있어요!
+- <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/회원가입.gif">
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/카카오로그인.gif">
 
 ### 판매글 작성 / 수정
 - 카테고리 설정 및 거래 유형을 선택해서 게시글을 올려보세요!
@@ -24,10 +26,12 @@
 ### 판매글 검색
 - 지역, 카테고리 별로 검색이 가능해요!
 
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/검색.gif">
+
 ### AI 번역 채팅 기능
 - 번역할 언어를 설정하고 상대방과 채팅해보세요!
 
-<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/검색.gif">
+
 
 
 
