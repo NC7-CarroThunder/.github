@@ -16,8 +16,9 @@
 - 카카오 소셜로그인을 통해 서비스를 이용할 수 있어요!
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/카카오로그인.gif">
 
-### 판매글 작성 / 수정
+### 판매글 작성
 - 카테고리 설정 및 거래 유형을 선택해서 게시글을 올려보세요!
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/게시글작성.gif">
 
 ### 안전 결제
 - 직접 결제가 어려우신가요? 캐럿썬더페이를 사용해보세요!
