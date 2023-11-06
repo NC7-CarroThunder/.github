@@ -22,17 +22,15 @@
 
 ### 안전 결제
 - 직접 결제가 어려우신가요? 캐럿썬더페이를 사용해보세요!
-
- 카카오페이를 활용하여 페이를 충전할 수 있습니다
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/충전.gif">
 
- 안전결제로 구매 시 구매자의 페이는 상품금액만큼 차감됩니다
+- 안전결제로 구매 시 구매자의 페이는 상품금액만큼 차감됩니다
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/구매.gif">
 
- 구매 후 취소를 하면 사용한 페이가 반환됩니다
+- 구매 후 취소를 하면 사용한 페이가 반환됩니다
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/구매취소.gif">
 
- 구매후 구매확정시 더이상 해당 상품에 대해 구매할 수 없고 사용한 페이의 금액은 판매자에게 넘어갑니다
+- 구매후 구매확정시 더이상 해당 상품에 대해 구매할 수 없고 사용한 페이의 금액은 판매자에게 넘어갑니다
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/구매확정.gif">
 
 ### 관심상품 등록
