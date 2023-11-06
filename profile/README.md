@@ -8,27 +8,62 @@
 <a href ="http://carrothunder.store"> 접속하기</a>
 
 ## 프로젝트 기능
+ 
+<details>
+<summary><h3>회원가입 / 소셜 로그인<h3></summary>
+  <h4>회원가입을 통해 서비스를 이용할 수 있어요!</h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/회원가입.gif">
 
-### 회원가입 / 소셜 로그인
-- 카카오 소셜로그인을 통해 서비스를 이용할 수 있어요!
+<h4>또한 카카오 소셜로그인을 통해서 로그인을 할 수 있어요!</h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/카카오로그인.gif">
+</details>
 
-### 판매글 작성 / 수정
-- 카테고리 설정 및 거래 유형을 선택해서 게시글을 올려보세요!
+<details>  
+<summary><h3>판매글 작성<h3></summary>
+<h4>카테고리 설정 및 거래 유형을 선택해서 게시글을 올려보세요!</h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/게시글작성.gif">
+</details>
 
-### 안전 결제
-- 직접 결제가 어려우신가요? 캐럿썬더페이를 사용해보세요!
+<details>
+<summary><h3>안전 결제<h3></summary>
+<h4>직접 결제가 어려우신가요? 캐럿썬더페이를 사용해보세요!</h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/충전.gif">
 
-### 관심상품 등록
-- 관심상품을 등록해보세요!
+<h4>안전결제로 구매 시 구매자의 페이는 상품금액만큼 차감됩니다</h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/구매.gif">
 
-### 판매글 검색
-- 지역, 카테고리 별로 검색이 가능해요!
+<h4>구매 후 취소를 하면 사용한 페이가 반환됩니다<h4></h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/구매취소.gif">
 
-### AI 번역 채팅 기능
-- 번역할 언어를 설정하고 상대방과 채팅해보세요!
+<h4>구매후 구매확정시 더이상 해당 상품에 대해 구매할 수 없고 사용한 페이의 금액은 판매자에게 넘어갑니다</h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/구매확정.gif">
+</details>
 
+<details>
+<summary><h3>관심상품 등록<h3></summary>
+<h4>관심상품을 등록해보세요!</h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/관심상품.gif">
+</details>
+
+<details>
+<summary><h3>판매글 검색<h3></summary>
+<h4>지역, 카테고리 별로 검색이 가능해요!</h4>
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/검색.gif">
+</details>
 
+<details>
+<summary><h3>AI 번역 채팅 기능<h3></summary>
+<h4>번역할 언어를 설정하고 상대방과 채팅해보세요!</h4>
+<a href="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/채팅.gif">
+    <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/채팅.gif" alt="AI 번역 채팅 이미지">
+  </a>
+
+<h4>채팅방을 나갈 시 전의 채팅내역은 보이지 않아요!</h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/채팅방나가기.gif">
+
+<h4>나가지 않은 유저는 채팅내역이 그대로 남은상태로 채팅이 가능해요 또한 자신의 메세지는 삭제할 수 있어요!</h4>
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/판매자채팅방.gif">
+</details>
 
 
 ## 기술스택
