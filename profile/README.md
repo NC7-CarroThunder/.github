@@ -44,10 +44,13 @@
 
 ### AI 번역 채팅 기능
 - 번역할 언어를 설정하고 상대방과 채팅해보세요!
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/채팅.gif">
 
+- 채팅방을 나갈 시 전의 채팅내역은 보이지 않아요!
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/채팅방나가기.gif">
 
-
-
+- 나가지 않은 유저는 채팅내역이 그대로 남은상태로 채팅이 가능해요 또한 자신의 메세지는 삭제할 수 있어요!
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/판매자채팅방.gif">
 
 ## 기술스택
 ## FE
