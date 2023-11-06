@@ -12,7 +12,7 @@
 <details>
 <summary><h3>회원가입 / 소셜 로그인<h3></summary>
   <h4>회원가입을 통해 서비스를 이용할 수 있어요!</h4>
-<img src=" https://github.com/NC7-CarroThunder/.github/blob/main/profile/img/회원가입.gif">
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/회원가입.gif">
 
 <h4>또한 카카오 소셜로그인을 통해서 로그인을 할 수 있어요!</h4>
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/카카오로그인.gif">
