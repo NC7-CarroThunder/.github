@@ -10,8 +10,10 @@
 ## 프로젝트 기능
 
 ### 회원가입 / 소셜 로그인
+- 회원가입을 통해 서비스를 이용할 수 있어요!
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/회원가입.gif">
+
 - 카카오 소셜로그인을 통해 서비스를 이용할 수 있어요!
-- <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/회원가입.gif">
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/카카오로그인.gif">
 
 ### 판매글 작성 / 수정
