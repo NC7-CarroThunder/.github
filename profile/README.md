@@ -35,6 +35,7 @@
 
 ### 관심상품 등록
 - 관심상품을 등록해보세요!
+<img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/관심상품.gif">
 
 ### 판매글 검색
 - 지역, 카테고리 별로 검색이 가능해요!
