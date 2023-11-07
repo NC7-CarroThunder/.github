@@ -5,7 +5,7 @@
 
 ## 지금 바로 접속해보세요
 
-<a href ="http://carrothunder.store"> 접속하기</a>
+<a href ="http://carrothunder.store">CarroThunder 페이지로 이동</a>
 
 ## 프로젝트 기능
  
