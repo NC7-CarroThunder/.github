@@ -108,7 +108,6 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </div>
 
-## 멤버
 
 ## ERD
 <img src="https://raw.githubusercontent.com/NC7-CarroThunder/.github/main/profile/img/erd.png">
