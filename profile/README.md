@@ -5,7 +5,7 @@
 
 ## 지금 바로 접속해보세요
 
-<a href ="http://carrothunder.store">CarroThunder 페이지로 이동</a>
+<a href ="http://carrothunder.store">CarroThunder 페이지로 이동</a><br>
 23.12.28 네이버 클라우드 서버 요금문제로인한 사이트 접속불가
 
 ## 프로젝트 기능
